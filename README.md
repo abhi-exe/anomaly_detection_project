@@ -1,4 +1,4 @@
-Hey! This is a project for anomaly detection intended as a research project for my application for a Graduate Software Engineer at Cobblestone Energy.
+Hey! This is a research project for anomaly detection in a data stream.
 
 There are 6 files in this project.
 data_stream_generator.py
